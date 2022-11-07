@@ -19,6 +19,7 @@
 
 <p>Shh... so many private repos 🤐</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=teschiopol&show_icons=true&locale=en&layout=compact" alt="teschiopol" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=teschiopol&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="teschiopol" /></p>
+
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=teschiopol&theme=highcontrast" alt="teschiopol" /></p>
