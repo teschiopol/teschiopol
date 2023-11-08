@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Pol 👨🏻‍💻</h1>
 <h3 align="center">A Full Stack Dev & Nerd</h3>
 
-- 🥸 I’m currently working at [Eniac SpA SB](https://eniac.it/)
+- 🥸 I’m currently working at [Esosphera Srl](https://esosphera.com/)
 
 - 🌐 My personal website (in progress) at [Unicorne](https://www.unicorne.it/)
 
@@ -9,7 +9,7 @@
 
 - 📄 My basic boring profile on [LinkedIn](https://www.linkedin.com/in/paolo-c-42bba9124)
 
-- 🎮 Fun fact **30+ Plats on Ps4**
+- 🎮 Fun fact **35 Plats on Ps4**
 
 <h4 align="center">If there is a problem and I can solve it, the problem is solved! 🦄</h4>
 
