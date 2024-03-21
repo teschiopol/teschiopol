@@ -3,7 +3,7 @@
 
 - 🥸 I’m currently working at [Esosphera Srl](https://esosphera.com/)
 
-- 🌐 My personal website (in progress) at [Unicorne](https://www.unicorne.it/)
+- 🌐 My personal website at [Unicorne](https://www.unicorne.it/)
 
 - 📫 Spam your email at **concolatop@gmail.com**
 
