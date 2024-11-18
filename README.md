@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Pol 👨🏻‍💻</h1>
 <h3 align="center">A Full Stack Dev & Nerd</h3>
 
-- 🥸 I’m currently working at [Esosphera Srl](https://esosphera.com/)
+- 🥸 I’m currently working on my own at [Unicorne IT](https://www.unicorne.it/)
 
-- 🌐 My personal website at [Unicorne](https://www.unicorne.it/)
+- 🌐 My personal website at [Me](https://www.paoloconcolato.com/)
 
 - 📫 Spam your email at **concolatop@gmail.com**
 
