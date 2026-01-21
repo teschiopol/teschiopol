@@ -9,7 +9,7 @@
 
 - 📄 My basic boring profile on [LinkedIn](https://www.linkedin.com/in/paolo-c-42bba9124)
 
-- 🎮 Fun fact **36 Plats on Ps4** [My Stats](https://psnprofiles.com/Teschiopol)
+- 🎮 Fun fact **38 Plats on Ps4** [My Stats](https://psnprofiles.com/Teschiopol)
 
 <h4 align="center">If there is a problem and I can solve it, the problem is solved! 🦄</h4>
 
